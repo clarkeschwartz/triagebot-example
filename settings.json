@@ -17,6 +17,6 @@
 
   "addressed": {
     "title": "There are `{{count}}` request(s) addressed in {{channel}}:",
-    "emojis": [ ":white_check_mark:", :heavy_check_mark: ]
+    "emojis": [ ":white_check_mark:", ":heavy_check_mark:" ]
   }
 }
